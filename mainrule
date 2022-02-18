@@ -1,0 +1,12 @@
+##微软解决显示无法上网
+- "DOMAIN-KEYWORD,msftconnecttest,🐟 漏网之鱼"
+##屏蔽抖音
+- DOMAIN-SUFFIX,douyin.com,REJECT
+- DOMAIN-SUFFIX,amemv.com,REJECT
+- DOMAIN-SUFFIX,idouyinvod.com,REJECT
+- DOMAIN-SUFFIX,douyinvod.com,REJECT
+- DOMAIN-SUFFIX,snssdk.com,REJECT
+- DOMAIN-SUFFIX,douyincdn.com,REJECT
+- DOMAIN-SUFFIX,bytetos.com,REJECT
+- DOMAIN-SUFFIX,toutiao.com,REJECT
+- DOMAIN-SUFFIX,douyinstatic.com,REJECT
