@@ -10,3 +10,7 @@
 - DOMAIN-SUFFIX,bytetos.com,REJECT
 - DOMAIN-SUFFIX,toutiao.com,REJECT
 - DOMAIN-SUFFIX,douyinstatic.com,REJECT
+##原神国际服加速
+- "IP-CIDR,8.208.0.0/12,🐟 漏网之鱼"
+- "IP-CIDR,47.80.0.0/12,🐟 漏网之鱼"
+- "DOMAIN-SUFFIX,dispatchosglobal.yuanshen.com,🐟 漏网之鱼"
