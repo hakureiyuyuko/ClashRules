@@ -6,5 +6,5 @@ domain(suffix: osuspider.yuanshen.com) -> proxy
 #RockStar 规则
 domain(suffix: rockstargames.com) -> proxy
 domain(suffix: rsg.sc) -> proxy
-domain(arkoselabs.cn) -> proxy
+domain(suffix: arkoselabs.cn) -> proxy
 ###
