@@ -1,0 +1,10 @@
+#原神国际服规则
+domain(suffix: osasiadispatch.yuanshen.com) -> proxy
+domain(suffix: autopatchhk.yuanshen.com) -> proxy
+domain(suffix: hk4e-api-os.mihoyo.com) -> proxy
+domain(suffix: osuspider.yuanshen.com) -> proxy
+#RockStar 规则
+domain(suffix: rockstargames.com) -> proxy
+domain(suffix: rsg.sc) -> proxy
+domain(arkoselabs.cn) -> proxy
+###
